@@ -1,0 +1,2 @@
+# adaoshishabi
+my first repository
